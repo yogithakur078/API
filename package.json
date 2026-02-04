@@ -1,14 +1,14 @@
 {
   "name": "db",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-"scripts": {
-  "start": "json-server --watch db.json --port 5000",
-  "render": "json-server --watch db.json --port $PORT"
-}
-
-,
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "json-server db.json --host 0.0.0.0 --port $PORT"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yogithakur078/API.git"
@@ -16,12 +16,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/yogithakur078/API/issues"
   },
-  "homepage": "https://github.com/yogithakur078/API#readme",
-  "dependencies": {
-    "json-server": "^1.0.0-beta.5"
-  }
+  "homepage": "https://github.com/yogithakur078/API#readme"
 }
