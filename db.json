@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "/panda.jpg",
+      "imgalt": "Product 1",
+      "cardtitle": "Handcrafted Panda",
+      "description": "Beautiful handcrafted Panda made with love.",
+      "price": "499",
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "image": "/tantulika2.jpg",
+      "imgalt": "Product 2",
+      "cardtitle": "Handcrafted Home Decor",
+      "description": "Beautiful handcrafted Homedecor made with love.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "image": "/tantulika3.jfif",
+      "imgalt": "Product 3",
+      "cardtitle": "Ceramic Pottery Set",
+      "description": "Set of hand-painted ceramic pots perfect for home decor.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "image": "/tant4.png",
+      "imgalt": "Product 4",
+      "cardtitle": "Handmade Jute Bag",
+      "description": "Durable and eco-friendly jute bag with stylish design.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "5",
+      "image": "/tant5.png",
+      "imgalt": "Product 5",
+      "cardtitle": "Handcrafted Hairband",
+      "description": "Beautiful handcrafted hairband made with love.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "6",
+      "image": "/tant6.png",
+      "imgalt": "Product 6",
+      "cardtitle": "Himachali Shawl",
+      "description": "Traditional shawl with intricate patterns and soft texture.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "7",
+      "image": "/tant7.png",
+      "imgalt": "Product 7",
+      "cardtitle": "Ceramic Pottery Set",
+      "description": "Set of hand-painted ceramic pots perfect for home decor.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "8",
+      "image": "/tant8.png",
+      "imgalt": "Product 8",
+      "cardtitle": "Handmade Jute Bag",
+      "description": "Durable and eco-friendly jute bag with stylish design.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "9",
+      "image": "/tant9.png",
+      "imgalt": "Product 9",
+      "cardtitle": "Handcrafted Hairband",
+      "description": "Beautiful handcrafted hairband made with love.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "10",
+      "image": "/tant10.png",
+      "imgalt": "Product 10",
+      "cardtitle": "Himachali Shawl",
+      "description": "Traditional shawl with intricate patterns and soft texture.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "11",
+      "image": "/tant11.png",
+      "imgalt": "Product 11",
+      "cardtitle": "Ceramic Pottery Set",
+      "description": "Set of hand-painted ceramic pots perfect for home decor.",
+      "price": "399",
+      "qty": 1
+    },
+    {
+      "id": "12",
+      "image": "/tant12.jpg",
+      "imgalt": "Product 12",
+      "cardtitle": "Handmade Jute Bag",
+      "description": "Durable and eco-friendly jute bag with stylish design.",
+      "price": "399",
+      "qty": 1
+    }
+  ],
+  "cart": []
+}
