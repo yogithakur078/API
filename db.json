@@ -107,7 +107,32 @@
       "description": "Durable and eco-friendly jute bag with stylish design.",
       "price": "399",
       "qty": 1
-    }
+    },
+     { "id": "101", "image": "https://images.unsplash.com/photo-1635205383325-aa3e6fb5ba55?w=600&auto=format&fit=crop&q=60", "imgalt": "Italian Wool Suit", "cardtitle": "Italian Wool Suit", "description": "Premium Italian Wool Suit crafted with high quality material.", "price": "599.00", "qty": 1 },
+  { "id": "102", "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=500&auto=format&fit=crop&q=60", "imgalt": "Evening Silk Dress", "cardtitle": "Evening Silk Dress", "description": "Elegant Evening Silk Dress perfect for special occasions.", "price": "249.00", "qty": 1 },
+  { "id": "103", "image": "https://plus.unsplash.com/premium_photo-1707816501228-1d814ad62d7b?w=600&auto=format&fit=crop&q=60", "imgalt": "Classic Denim Jacket", "cardtitle": "Classic Denim Jacket", "description": "Stylish Classic Denim Jacket for everyday fashion.", "price": "89.00", "qty": 1 },
+  { "id": "104", "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60", "imgalt": "Cotton Linen Shirt", "cardtitle": "Cotton Linen Shirt", "description": "Comfortable Cotton Linen Shirt for casual wear.", "price": "45.00", "qty": 1 },
+  { "id": "105", "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&auto=format&fit=crop&q=60", "imgalt": "High-Rise Jeans", "cardtitle": "High-Rise Jeans", "description": "Trendy High-Rise Jeans designed for modern style.", "price": "75.00", "qty": 1 },
+  { "id": "106", "image": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=500&auto=format&fit=crop&q=60", "imgalt": "Leather Boots", "cardtitle": "Leather Boots", "description": "Durable Leather Boots with premium finish.", "price": "150.00", "qty": 1 },
+  { "id": "107", "image": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?w=500&auto=format&fit=crop&q=60", "imgalt": "Striped Polo Shirt", "cardtitle": "Striped Polo Shirt", "description": "Comfortable Striped Polo Shirt for smart casual look.", "price": "35.00", "qty": 1 },
+  { "id": "108", "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&auto=format&fit=crop&q=60", "imgalt": "Summer Floral Dress", "cardtitle": "Summer Floral Dress", "description": "Lightweight Summer Floral Dress for sunny days.", "price": "65.00", "qty": 1 },
+  { "id": "109", "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500&auto=format&fit=crop&q=60", "imgalt": "Trench Coat", "cardtitle": "Trench Coat", "description": "Classic Trench Coat for stylish outerwear.", "price": "220.00", "qty": 1 },
+  { "id": "110", "image": "https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?w=500&auto=format&fit=crop&q=60", "imgalt": "Athletic Leggings", "cardtitle": "Athletic Leggings", "description": "Flexible Athletic Leggings for workouts and comfort.", "price": "45.00", "qty": 1 },
+
+  { "id": "401", "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500&auto=format&fit=crop&q=60", "imgalt": "Sony WH-1000XM5", "cardtitle": "Sony WH-1000XM5", "description": "High performance Sony WH-1000XM5 noise cancelling headphones.", "price": "348.00", "qty": 1 },
+  { "id": "402", "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=500&auto=format&fit=crop&q=60", "imgalt": "Apple Watch Ultra", "cardtitle": "Apple Watch Ultra", "description": "Advanced Apple Watch Ultra with premium features.", "price": "799.00", "qty": 1 },
+  { "id": "403", "image": "https://images.unsplash.com/photo-1717865499857-ec35ce6e65fa?w=600&auto=format&fit=crop&q=60", "imgalt": "MacBook Air M2", "cardtitle": "MacBook Air M2", "description": "Powerful MacBook Air M2 for performance and portability.", "price": "999.00", "qty": 1 },
+  { "id": "404", "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&auto=format&fit=crop&q=60", "imgalt": "Fujifilm X100V", "cardtitle": "Fujifilm X100V", "description": "Professional Fujifilm X100V camera with high resolution.", "price": "1399.00", "qty": 1 },
+  { "id": "405", "image": "https://www.thesoundfactor.com/cdn/shop/products/Marshallwillen.jpg?v=1667911877", "imgalt": "Marshall Speaker", "cardtitle": "Marshall Speaker", "description": "Powerful Marshall Speaker with deep bass sound.", "price": "249.00", "qty": 1 },
+  { "id": "406", "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&auto=format&fit=crop&q=60", "imgalt": "Gaming Mouse", "cardtitle": "Gaming Mouse", "description": "Precision Gaming Mouse designed for gamers.", "price": "59.99", "qty": 1 },
+  { "id": "407", "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=500&auto=format&fit=crop&q=60", "imgalt": "Mechanical Keyboard", "cardtitle": "Mechanical Keyboard", "description": "Mechanical Keyboard with responsive keys.", "price": "129.00", "qty": 1 },
+  { "id": "408", "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&auto=format&fit=crop&q=60", "imgalt": "4K Monitor", "cardtitle": "4K Monitor", "description": "Ultra HD 4K Monitor for crystal clear visuals.", "price": "399.00", "qty": 1 },
+  { "id": "409", "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500&auto=format&fit=crop&q=60", "imgalt": "Wireless Earbuds", "cardtitle": "Wireless Earbuds", "description": "Compact Wireless Earbuds with clear sound.", "price": "129.00", "qty": 1 },
+  { "id": "410", "image": "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?w=500&auto=format&fit=crop&q=60", "imgalt": "Drone Camera", "cardtitle": "Drone Camera", "description": "High-tech Drone Camera for aerial photography.", "price": "899.00", "qty": 1 }
+
   ],
+
+
+  
   "cart": []
 }
