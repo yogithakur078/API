@@ -6,8 +6,10 @@
       "imgalt": "Product 1",
       "cardtitle": "Handcrafted Panda",
       "description": "Beautiful handcrafted Panda made with love.",
-      "price": "499",
-      "qty": 1
+      "price": "499.00",
+      "qty": 1,
+      "category": "Home Decoration"
+
     },
     {
       "id": "2",
@@ -15,8 +17,9 @@
       "imgalt": "Product 2",
       "cardtitle": " Home Decor",
       "description": "Beautiful handcrafted Homedecor made with love.",
-      "price": "399",
-      "qty": 1
+      "price": "399.00",
+      "qty": 1,
+      "category": "Home Decoration"
     },
    
    
@@ -26,8 +29,9 @@
       "imgalt": "Italian Wool Suit",
       "cardtitle": "Italian Wool Suit",
       "description": "Premium Italian Wool Suit crafted with high quality material.",
-      "price": "599.00",
-      "qty": 1
+      "price": "5599.00",
+      "qty": 1,
+      "category": "Men"
     },
     {
       "id": "102",
@@ -35,8 +39,9 @@
       "imgalt": "Evening Silk Dress",
       "cardtitle": "Evening Silk Dress",
       "description": "Elegant Evening Silk Dress perfect for special occasions.",
-      "price": "249.00",
-      "qty": 1
+      "price": "2149.00",
+      "qty": 1,
+      "category": "Women"
     },
     {
       "id": "103",
@@ -44,8 +49,9 @@
       "imgalt": "Classic Denim Jacket",
       "cardtitle": "Classic Denim Jacket",
       "description": "Stylish Classic Denim Jacket for everyday fashion.",
-      "price": "89.00",
-      "qty": 1
+      "price": "2999.00",
+      "qty": 1,
+      "category": "Child "
     },
     {
       "id": "104",
@@ -53,8 +59,9 @@
       "imgalt": "Cotton Linen Shirt",
       "cardtitle": "Cotton Linen Shirt",
       "description": "Comfortable Cotton Linen Shirt for casual wear.",
-      "price": "45.00",
-      "qty": 1
+      "price": "1045.00",
+      "qty": 1,
+      "category": "Child "
     },
     {
       "id": "105",
@@ -62,8 +69,9 @@
       "imgalt": "High-Rise Jeans",
       "cardtitle": "High-Rise Jeans",
       "description": "Trendy High-Rise Jeans designed for modern style.",
-      "price": "75.00",
-      "qty": 1
+      "price": "1175.00",
+      "qty": 1,
+      "category": "Men"
     },
     {
       "id": "106",
@@ -71,8 +79,9 @@
       "imgalt": "Leather Boots",
       "cardtitle": "Leather Boots",
       "description": "Durable Leather Boots with premium finish.",
-      "price": "150.00",
-      "qty": 1
+      "price": "2550.00",
+      "qty": 1,
+      "category": "Men"
     },
     {
       "id": "107",
@@ -80,8 +89,9 @@
       "imgalt": "Striped Polo Shirt",
       "cardtitle": "Striped Polo Shirt",
       "description": "Comfortable Striped Polo Shirt for smart casual look.",
-      "price": "35.00",
-      "qty": 1
+      "price": "1135.00",
+      "qty": 1,
+      "category": "Men"
     },
     {
       "id": "108",
@@ -89,8 +99,9 @@
       "imgalt": "Summer Floral Dress",
       "cardtitle": "Summer Floral Dress",
       "description": "Lightweight Summer Floral Dress for sunny days.",
-      "price": "65.00",
-      "qty": 1
+      "price": "1965.00",
+      "qty": 1,
+      "category": "Women"
     },
     {
       "id": "109",
@@ -98,8 +109,9 @@
       "imgalt": "Trench Coat",
       "cardtitle": "Trench Coat",
       "description": "Classic Trench Coat for stylish outerwear.",
-      "price": "220.00",
-      "qty": 1
+      "price": "1220.00",
+      "qty": 1,
+      "category": "Men"
     },
     {
       "id": "110",
@@ -107,8 +119,9 @@
       "imgalt": "Athletic Leggings",
       "cardtitle": "Athletic Leggings",
       "description": "Flexible Athletic Leggings for workouts and comfort.",
-      "price": "45.00",
-      "qty": 1
+      "price": "145.00",
+      "qty": 1,
+      "category": "Home Decoration"
     },
     {
       "id": "401",
@@ -116,8 +129,9 @@
       "imgalt": "Sony WH-1000XM5",
       "cardtitle": "Sony WH-1000XM5",
       "description": "High performance Sony WH-1000XM5 noise cancelling headphones.",
-      "price": "348.00",
-      "qty": 1
+      "price": "1348.00",
+      "qty": 1,
+      "category": "Electronics"
     },
     {
       "id": "402",
@@ -126,7 +140,8 @@
       "cardtitle": "Apple Watch Ultra",
       "description": "Advanced Apple Watch Ultra with premium features.",
       "price": "799.00",
-      "qty": 1
+      "qty": 1,
+      "category": "Electronics"
     },
     
     {
@@ -135,8 +150,9 @@
       "imgalt": "Product 11",
       "cardtitle": "Ceramic Pottery Set",
       "description": "Set of hand-painted ceramic pots perfect for home decor.",
-      "price": "399",
-      "qty": 1
+      "price": "599.00",
+      "qty": 1,
+       "category": "Home Decoration"
     },
     {
       "id": "12",
@@ -144,8 +160,9 @@
       "imgalt": "Product 12",
       "cardtitle": "Handmade Jute Bag",
       "description": "Durable and eco-friendly jute bag with stylish design.",
-      "price": "399",
-      "qty": 1
+      "price": "699.00",
+      "qty": 1,
+      "category": "Home Decoration"
     },
     {
       "id": "403",
@@ -153,8 +170,9 @@
       "imgalt": "MacBook Air M2",
       "cardtitle": "MacBook Air M2",
       "description": "Powerful MacBook Air M2 for performance and portability.",
-      "price": "999.00",
-      "qty": 1
+      "price": "99999.00",
+      "qty": 1,
+      "category": "Electronics"
     },
     {
       "id": "404",
@@ -162,8 +180,9 @@
       "imgalt": "Fujifilm X100V",
       "cardtitle": "Fujifilm X100V",
       "description": "Professional Fujifilm X100V camera with high resolution.",
-      "price": "1399.00",
-      "qty": 1
+      "price": "139999.00",
+      "qty": 1,
+      "category": "Electronics"
     },
     {
       "id": "405",
@@ -171,8 +190,9 @@
       "imgalt": "Marshall Speaker",
       "cardtitle": "Marshall Speaker",
       "description": "Powerful Marshall Speaker with deep bass sound.",
-      "price": "249.00",
-      "qty": 1
+      "price": "1249.00",
+      "qty": 1,
+      "category": "Electronics"
     },
     {
       "id": "406",
@@ -180,8 +200,9 @@
       "imgalt": "Gaming Mouse",
       "cardtitle": "Gaming Mouse",
       "description": "Precision Gaming Mouse designed for gamers.",
-      "price": "59.99",
-      "qty": 1
+      "price": "1559.99",
+      "qty": 1,
+      "category": "Electronics"
     },
     {
       "id": "407",
@@ -189,8 +210,9 @@
       "imgalt": "Mechanical Keyboard",
       "cardtitle": "Mechanical Keyboard",
       "description": "Mechanical Keyboard with responsive keys.",
-      "price": "129.00",
-      "qty": 1
+      "price": "1029.00",
+      "qty": 1,
+      "category": "Electronics"
     },
      {
       "id": "3",
@@ -198,8 +220,9 @@
       "imgalt": "Product 3",
       "cardtitle": "Ceramic Pottery Set",
       "description": "Set of hand-painted ceramic pots perfect for home decor.",
-      "price": "399",
-      "qty": 1
+      "price": "399.00",
+      "qty": 1,
+      "category": "Home Decoration"
     },
     {
       "id": "4",
@@ -207,8 +230,9 @@
       "imgalt": "Product 4",
       "cardtitle": "Handmade Jute Bag",
       "description": "Durable and eco-friendly jute bag with stylish design.",
-      "price": "399",
-      "qty": 1
+      "price": "399.00",
+      "qty": 1,
+      "category": "Women"
     },
     {
       "id": "408",
@@ -216,8 +240,9 @@
       "imgalt": "4K Monitor",
       "cardtitle": "4K Monitor",
       "description": "Ultra HD 4K Monitor for crystal clear visuals.",
-      "price": "399.00",
-      "qty": 1
+      "price": "39999.00",
+      "qty": 1,
+      "category": "Electronics"
     },
     {
       "id": "409",
@@ -225,8 +250,9 @@
       "imgalt": "Wireless Earbuds",
       "cardtitle": "Wireless Earbuds",
       "description": "Compact Wireless Earbuds with clear sound.",
-      "price": "129.00",
-      "qty": 1
+      "price": "1229.00",
+      "qty": 1,
+      "category": "Electronics"
     },
     {
       "id": "410",
@@ -234,8 +260,9 @@
       "imgalt": "Drone Camera",
       "cardtitle": "Drone Camera",
       "description": "High-tech Drone Camera for aerial photography.",
-      "price": "899.00",
-      "qty": 1
+      "price": "8999.00",
+      "qty": 1,
+      "category": "Electronics"
     }
   ],
   "cart": []
