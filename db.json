@@ -1,9 +1,6 @@
 {
   "users": [],
-
-
-
-  
+  "orders": [],
   "products": [
     {
       "id": "1",
@@ -14,7 +11,6 @@
       "price": "499.00",
       "qty": 1,
       "category": "Home Decoration"
-
     },
     {
       "id": "2",
@@ -26,8 +22,6 @@
       "qty": 1,
       "category": "Home Decoration"
     },
-   
-   
     {
       "id": "101",
       "image": "https://images.unsplash.com/photo-1635205383325-aa3e6fb5ba55?w=600&auto=format&fit=crop&q=60",
@@ -118,77 +112,76 @@
       "qty": 1,
       "category": "Men"
     },
-     {
-    "id": "145",
-    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc",
-    "imgalt": "Face Cream",
-    "cardtitle": "Hydrating Face Cream",
-    "description": "Deep moisturizing face cream for soft and glowing skin.",
-    "price": "499.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-  {
-    "id": "146",
-    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be",
-    "imgalt": "Vitamin C Cream",
-    "cardtitle": "Vitamin C Glow Cream",
-    "description": "Brightening cream enriched with Vitamin C for radiant skin.",
-    "price": "549.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-  {
-    "id": "147",
-    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
-    "imgalt": "Aloe Cream",
-    "cardtitle": "Aloe Vera Moisturizer",
-    "description": "Natural aloe vera cream that hydrates and refreshes skin.",
-    "price": "399.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-  {
-    "id": "148",
-    "image": "https://images.unsplash.com/photo-1629198735660-e39ea93f5f6d",
-    "imgalt": "Night Cream",
-    "cardtitle": "Rejuvenating Night Cream",
-    "description": "Repair and nourish your skin overnight with this rich cream.",
-    "price": "699.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-  {
-    "id": "149",
-    "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9",
-    "imgalt": "Anti Aging Cream",
-    "cardtitle": "Anti Aging Face Cream",
-    "description": "Reduces fine lines and wrinkles for youthful skin.",
-    "price": "799.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-
-  {
-    "id": "154",
-    "image": "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137",
-    "imgalt": "Glow Cream",
-    "cardtitle": "Natural Glow Cream",
-    "description": "Enhances natural glow with nourishing ingredients.",
-    "price": "499.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-  {
-    "id": "155",
-    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
-    "imgalt": "Luxury Cream",
-    "cardtitle": "Luxury Hydration Cream",
-    "description": "Premium moisturizing cream for smooth and soft skin.",
-    "price": "899.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
+    {
+      "id": "145",
+      "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc",
+      "imgalt": "Face Cream",
+      "cardtitle": "Hydrating Face Cream",
+      "description": "Deep moisturizing face cream for soft and glowing skin.",
+      "price": "499.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
+    {
+      "id": "146",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be",
+      "imgalt": "Vitamin C Cream",
+      "cardtitle": "Vitamin C Glow Cream",
+      "description": "Brightening cream enriched with Vitamin C for radiant skin.",
+      "price": "549.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
+    {
+      "id": "147",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
+      "imgalt": "Aloe Cream",
+      "cardtitle": "Aloe Vera Moisturizer",
+      "description": "Natural aloe vera cream that hydrates and refreshes skin.",
+      "price": "399.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
+    {
+      "id": "148",
+      "image": "https://images.unsplash.com/photo-1629198735660-e39ea93f5f6d",
+      "imgalt": "Night Cream",
+      "cardtitle": "Rejuvenating Night Cream",
+      "description": "Repair and nourish your skin overnight with this rich cream.",
+      "price": "699.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
+    {
+      "id": "149",
+      "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9",
+      "imgalt": "Anti Aging Cream",
+      "cardtitle": "Anti Aging Face Cream",
+      "description": "Reduces fine lines and wrinkles for youthful skin.",
+      "price": "799.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
+    {
+      "id": "154",
+      "image": "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137",
+      "imgalt": "Glow Cream",
+      "cardtitle": "Natural Glow Cream",
+      "description": "Enhances natural glow with nourishing ingredients.",
+      "price": "499.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
+    {
+      "id": "155",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
+      "imgalt": "Luxury Cream",
+      "cardtitle": "Luxury Hydration Cream",
+      "description": "Premium moisturizing cream for smooth and soft skin.",
+      "price": "899.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
     {
       "id": "110",
       "image": "https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?w=500&auto=format&fit=crop&q=60",
@@ -219,7 +212,6 @@
       "qty": 1,
       "category": "Electronics"
     },
-    
     {
       "id": "11",
       "image": "/tant11.png",
@@ -228,7 +220,7 @@
       "description": "Set of hand-painted ceramic pots perfect for home decor.",
       "price": "599.00",
       "qty": 1,
-       "category": "Home Decoration"
+      "category": "Home Decoration"
     },
     {
       "id": "12",
@@ -290,7 +282,7 @@
       "qty": 1,
       "category": "Electronics"
     },
-     {
+    {
       "id": "3",
       "image": "/tantulika3.jfif",
       "imgalt": "Product 3",
@@ -300,47 +292,46 @@
       "qty": 1,
       "category": "Home Decoration"
     },
-      {
-    "id": "150",
-    "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd",
-    "imgalt": "Herbal Cream",
-    "cardtitle": "Organic Herbal Face Cream",
-    "description": "Herbal formula with natural extracts for healthy skin.",
-    "price": "599.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-  {
-    "id": "151",
-    "image": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6",
-    "imgalt": "Brightening Cream",
-    "cardtitle": "Skin Brightening Cream",
-    "description": "Improves skin tone and gives a natural glow.",
-    "price": "549.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-  {
-    "id": "152",
-    "image": "https://images.unsplash.com/photo-1619451680720-3b5c6c8f5a1e",
-    "imgalt": "Hydra Cream",
-    "cardtitle": "Hydra Boost Cream",
-    "description": "Lightweight gel cream that keeps skin hydrated all day.",
-    "price": "649.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-  {
-    "id": "153",
-    "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9a1d7c1",
-    "imgalt": "Daily Cream",
-    "cardtitle": "Daily Care Face Cream",
-    "description": "Gentle daily cream suitable for all skin types.",
-    "price": "399.00",
-    "qty": 1,
-    "category": "Beauty"
-  },
-  
+    {
+      "id": "150",
+      "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd",
+      "imgalt": "Herbal Cream",
+      "cardtitle": "Organic Herbal Face Cream",
+      "description": "Herbal formula with natural extracts for healthy skin.",
+      "price": "599.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
+    {
+      "id": "151",
+      "image": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6",
+      "imgalt": "Brightening Cream",
+      "cardtitle": "Skin Brightening Cream",
+      "description": "Improves skin tone and gives a natural glow.",
+      "price": "549.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
+    {
+      "id": "152",
+      "image": "https://images.unsplash.com/photo-1619451680720-3b5c6c8f5a1e",
+      "imgalt": "Hydra Cream",
+      "cardtitle": "Hydra Boost Cream",
+      "description": "Lightweight gel cream that keeps skin hydrated all day.",
+      "price": "649.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
+    {
+      "id": "153",
+      "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9a1d7c1",
+      "imgalt": "Daily Cream",
+      "cardtitle": "Daily Care Face Cream",
+      "description": "Gentle daily cream suitable for all skin types.",
+      "price": "399.00",
+      "qty": 1,
+      "category": "Beauty"
+    },
     {
       "id": "4",
       "image": "/tant4.png",
